@@ -8,8 +8,6 @@ A análise limite consiste em testar cada faixa da lógica de negócio de modo a
 
 ## Análise de Valor Limite
 
-# Análise de Valor Limite - SimuladorCashBack
-
 Esta tabela contém os cenários de teste de valor limite para a função `calculaCashBack`, considerando diferentes faixas de valores e níveis de cashback (Bronze, Prata e Ouro).
 
 | **Cenário**                                      | **Valor** | **Nível**  | **Cashback Esperado** |
